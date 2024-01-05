@@ -9,6 +9,19 @@
 
 **Simply download it now and let it transform your keyword research in a single click! **
 
+Here's what you'll need to get started:
+
+** Prerequisites:**
+
+Python 3 (download it for free at https://www.python.org/downloads/)
+PyCharm (a powerful Python IDE, available at https://www.jetbrains.com/pycharm/download/)
+** Simple Setup:**
+
+Download the tool.
+Install Python 3 and PyCharm.
+Open the tool in PyCharm.
+That's it! You're ready to cluster.
+
 Here's how it propels your blogging to new heights:
 
 ✅ Effortlessly groups related keywords, saving you hours of manual labor.
